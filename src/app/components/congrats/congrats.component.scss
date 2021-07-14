@@ -1,0 +1,43 @@
+.congrats {
+	width: 100%;
+	height: 100%;
+	min-height: calc(100vh - 12rem);
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+
+	& > h3 {
+		font-size: 4rem;
+		color: #333;
+		margin: 0 0 1rem 0;
+		padding: 0;
+	}
+
+	& > h6 {
+		font-size: 2rem;
+		color: #333;
+		margin: 0 0 4rem 0;
+		padding: 0;
+	}
+
+	& > button {
+		background-color: #2dabf9;
+		border-radius: 1rem;
+		display: block;
+		cursor: pointer;
+		color: #ffffff;
+		font-size: 1.5rem;
+		padding: 1rem 2rem;
+		text-decoration: none;
+		border: none;
+
+		&:hover {
+			background-color: #0688fa;
+		}
+
+		&:active {
+			position: relative;
+		}
+	}
+}

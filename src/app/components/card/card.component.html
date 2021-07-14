@@ -1,0 +1,4 @@
+<div [stopMultiClicks]="enableButton" class="card" (click)="onCartdFlipHandler($event, card.name)" [attr.data-name]="card.name">
+	<img class="card-img" src="{{ card.url }}" />
+	<img class="card-blank" src="./assets/cards/blank.png" />
+</div>

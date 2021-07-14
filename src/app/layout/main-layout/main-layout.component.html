@@ -1,0 +1,11 @@
+<article class="row">
+	<section *ngIf="!gameStatus" class="column big">
+		<app-card-list></app-card-list>
+	</section>
+	<section *ngIf="!gameStatus" class="column small">
+		<app-time (onTimeChange)="finalTime($event)"></app-time>
+	</section>
+	<section *ngIf="gameStatus" class="column full">
+		<app-congrats (onRestartGame)="onRestartGame($event)" [time]="time"></app-congrats>
+	</section>
+</article>

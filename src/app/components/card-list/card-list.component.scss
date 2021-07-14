@@ -1,0 +1,15 @@
+.card-grid {
+	min-width: 36rem;
+	display: grid;
+	grid-template-columns: repeat(6, 1fr);
+	grid-template-rows: repeat(6, 6rem);
+	gap: 0.5rem;
+	grid-auto-flow: column;
+	pointer-events: none;
+
+	app-card {
+		position: relative;
+		border: 1px solid #dfdfdf;
+		border-radius: 0.5rem;
+	}
+}

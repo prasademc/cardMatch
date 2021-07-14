@@ -2,211 +2,211 @@
 	"total": 52,
 	"cards": [
 		{
-			"id": "ace_of_clubs",
-			"url": "./assets/cards/ace_of_clubs.png"
+			"name": "ace_of_club",
+			"url": "./assets/cards/ace_of_club.png"
 		},
 		{
-			"id": "ace_of_diamond",
+			"name": "ace_of_diamond",
 			"url": "./assets/cards/ace_of_diamond.png"
 		},
 		{
-			"id": "ace_of_heart",
+			"name": "ace_of_heart",
 			"url": "./assets/cards/ace_of_heart.png"
 		},
 		{
-			"id": "ace_of_spade",
+			"name": "ace_of_spade",
 			"url": "./assets/cards/ace_of_spade.png"
 		},
 		{
-			"id": "king_of_clubs",
-			"url": "./assets/cards/king_of_clubs.png"
+			"name": "king_of_club",
+			"url": "./assets/cards/king_of_club.png"
 		},
 		{
-			"id": "king_of_diamond",
+			"name": "king_of_diamond",
 			"url": "./assets/cards/king_of_diamond.png"
 		},
 		{
-			"id": "king_of_heart",
+			"name": "king_of_heart",
 			"url": "./assets/cards/king_of_heart.png"
 		},
 		{
-			"id": "king_of_spade",
+			"name": "king_of_spade",
 			"url": "./assets/cards/king_of_spade.png"
 		},
 		{
-			"id": "queen_of_clubs",
-			"url": "./assets/cards/queen_of_clubs.png"
+			"name": "queen_of_club",
+			"url": "./assets/cards/queen_of_club.png"
 		},
 		{
-			"id": "queen_of_diamond",
+			"name": "queen_of_diamond",
 			"url": "./assets/cards/queen_of_diamond.png"
 		},
 		{
-			"id": "queen_of_heart",
+			"name": "queen_of_heart",
 			"url": "./assets/cards/queen_of_heart.png"
 		},
 		{
-			"id": "queen_of_spade",
+			"name": "queen_of_spade",
 			"url": "./assets/cards/queen_of_spade.png"
 		},
 		{
-			"id": "jack_of_clubs",
-			"url": "./assets/cards/jack_of_clubs.png"
+			"name": "jack_of_club",
+			"url": "./assets/cards/jack_of_club.png"
 		},
 		{
-			"id": "jack_of_diamond",
+			"name": "jack_of_diamond",
 			"url": "./assets/cards/jack_of_diamond.png"
 		},
 		{
-			"id": "jack_of_heart",
+			"name": "jack_of_heart",
 			"url": "./assets/cards/jack_of_heart.png"
 		},
 		{
-			"id": "jack_of_spade",
+			"name": "jack_of_spade",
 			"url": "./assets/cards/jack_of_spade.png"
 		},
 		{
-			"id": "2_of_clubs",
-			"url": "./assets/cards/2_of_clubs.png"
+			"name": "2_of_club",
+			"url": "./assets/cards/2_of_club.png"
 		},
 		{
-			"id": "2_of_diamond",
+			"name": "2_of_diamond",
 			"url": "./assets/cards/2_of_diamond.png"
 		},
 		{
-			"id": "2_of_heart",
+			"name": "2_of_heart",
 			"url": "./assets/cards/2_of_heart.png"
 		},
 		{
-			"id": "2_of_spade",
+			"name": "2_of_spade",
 			"url": "./assets/cards/2_of_spade.png"
 		},
 		{
-			"id": "3_of_clubs",
-			"url": "./assets/cards/3_of_clubs.png"
+			"name": "3_of_club",
+			"url": "./assets/cards/3_of_club.png"
 		},
 		{
-			"id": "3_of_diamond",
+			"name": "3_of_diamond",
 			"url": "./assets/cards/3_of_diamond.png"
 		},
 		{
-			"id": "3_of_heart",
+			"name": "3_of_heart",
 			"url": "./assets/cards/3_of_heart.png"
 		},
 		{
-			"id": "3_of_spade",
+			"name": "3_of_spade",
 			"url": "./assets/cards/3_of_spade.png"
 		},
 		{
-			"id": "4_of_clubs",
-			"url": "./assets/cards/4_of_clubs.png"
+			"name": "4_of_club",
+			"url": "./assets/cards/4_of_club.png"
 		},
 		{
-			"id": "4_of_diamond",
+			"name": "4_of_diamond",
 			"url": "./assets/cards/4_of_diamond.png"
 		},
 		{
-			"id": "4_of_heart",
+			"name": "4_of_heart",
 			"url": "./assets/cards/4_of_heart.png"
 		},
 		{
-			"id": "4_of_spade",
+			"name": "4_of_spade",
 			"url": "./assets/cards/4_of_spade.png"
 		},
 		{
-			"id": "5_of_clubs",
-			"url": "./assets/cards/5_of_clubs.png"
+			"name": "5_of_club",
+			"url": "./assets/cards/5_of_club.png"
 		},
 		{
-			"id": "5_of_diamond",
+			"name": "5_of_diamond",
 			"url": "./assets/cards/5_of_diamond.png"
 		},
 		{
-			"id": "5_of_heart",
+			"name": "5_of_heart",
 			"url": "./assets/cards/5_of_heart.png"
 		},
 		{
-			"id": "5_of_spade",
+			"name": "5_of_spade",
 			"url": "./assets/cards/5_of_spade.png"
 		},
 		{
-			"id": "6_of_clubs",
-			"url": "./assets/cards/6_of_clubs.png"
+			"name": "6_of_club",
+			"url": "./assets/cards/6_of_club.png"
 		},
 		{
-			"id": "6_of_diamond",
+			"name": "6_of_diamond",
 			"url": "./assets/cards/6_of_diamond.png"
 		},
 		{
-			"id": "6_of_heart",
+			"name": "6_of_heart",
 			"url": "./assets/cards/6_of_heart.png"
 		},
 		{
-			"id": "6_of_spade",
+			"name": "6_of_spade",
 			"url": "./assets/cards/6_of_spade.png"
 		},
 		{
-			"id": "7_of_clubs",
-			"url": "./assets/cards/7_of_clubs.png"
+			"name": "7_of_club",
+			"url": "./assets/cards/7_of_club.png"
 		},
 		{
-			"id": "7_of_diamond",
+			"name": "7_of_diamond",
 			"url": "./assets/cards/7_of_diamond.png"
 		},
 		{
-			"id": "7_of_heart",
+			"name": "7_of_heart",
 			"url": "./assets/cards/7_of_heart.png"
 		},
 		{
-			"id": "7_of_spade",
+			"name": "7_of_spade",
 			"url": "./assets/cards/7_of_spade.png"
 		},
 		{
-			"id": "8_of_clubs",
-			"url": "./assets/cards/8_of_clubs.png"
+			"name": "8_of_club",
+			"url": "./assets/cards/8_of_club.png"
 		},
 		{
-			"id": "8_of_diamond",
+			"name": "8_of_diamond",
 			"url": "./assets/cards/8_of_diamond.png"
 		},
 		{
-			"id": "8_of_heart",
+			"name": "8_of_heart",
 			"url": "./assets/cards/8_of_heart.png"
 		},
 		{
-			"id": "8_of_spade",
+			"name": "8_of_spade",
 			"url": "./assets/cards/8_of_spade.png"
 		},
 		{
-			"id": "9_of_clubs",
-			"url": "./assets/cards/9_of_clubs.png"
+			"name": "9_of_club",
+			"url": "./assets/cards/9_of_club.png"
 		},
 		{
-			"id": "9_of_diamond",
+			"name": "9_of_diamond",
 			"url": "./assets/cards/9_of_diamond.png"
 		},
 		{
-			"id": "9_of_heart",
+			"name": "9_of_heart",
 			"url": "./assets/cards/9_of_heart.png"
 		},
 		{
-			"id": "9_of_spade",
+			"name": "9_of_spade",
 			"url": "./assets/cards/9_of_spade.png"
 		},
 		{
-			"id": "10_of_clubs",
-			"url": "./assets/cards/10_of_clubs.png"
+			"name": "10_of_club",
+			"url": "./assets/cards/10_of_club.png"
 		},
 		{
-			"id": "10_of_diamond",
+			"name": "10_of_diamond",
 			"url": "./assets/cards/10_of_diamond.png"
 		},
 		{
-			"id": "10_of_heart",
+			"name": "10_of_heart",
 			"url": "./assets/cards/10_of_heart.png"
 		},
 		{
-			"id": "10_of_spade",
+			"name": "10_of_spade",
 			"url": "./assets/cards/10_of_spade.png"
 		}
 	]

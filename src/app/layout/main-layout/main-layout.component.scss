@@ -1,0 +1,36 @@
+.row {
+	padding: 2rem;
+	width: calc(100% - 4rem);
+	height: calc(100% - 4rem);
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: flex-start;
+
+	.column {
+		width: 50%;
+		height: auto;
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		align-items: center;
+
+		&.full {
+			width: 100%;
+		}
+
+		&.big {
+			width: 70%;
+		}
+
+		&.small {
+			width: 30%;
+			justify-content: flex-start;
+			align-items: center;
+		}
+
+		& > app-card-list {
+			width: 100%;
+		}
+	}
+}

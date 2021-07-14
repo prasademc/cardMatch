@@ -1,0 +1,3 @@
+<div #cardGrid class="card-grid">
+	<app-card *ngFor="let card of selectedCardList" [card]="card" (onCardFlip)="cardFlipHandler($event)"></app-card>
+</div>
